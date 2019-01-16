@@ -109,7 +109,6 @@ function previousSong() {
 
 // ---------- On pageload -------------------
 
-songSkip();
 navMQ();
 init();
 $('#about-page').hide();
